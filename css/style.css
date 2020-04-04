@@ -1,0 +1,57 @@
+#projects {
+  background-image: url("../images/projects_background.jpg"); }
+  #projects .card {
+    border: 1px solid whitesmoke; }
+  #projects .btn-link {
+    font-weight: bold;
+    font-size: large; }
+  #projects .color-proj {
+    color: #78C2AD; }
+
+#circleAvatar {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto; }
+  #circleAvatar img {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    display: block; }
+
+#education {
+  background-image: url("../images/education-book.PNG"); }
+  #education .card {
+    border: 2px solid black;
+    background-color: transparent; }
+
+.imagecss {
+  background-color: rgba(255, 255, 255, 0.4);
+  background-blend-mode: lighten; }
+
+#cc {
+  border: 2px coral; }
+
+#skills {
+  display: none; }
+
+#someText {
+  font-size: xx-large; }
+
+#contactForm {
+  border: 2px solid coral;
+  background-color: #f3b2ab;
+  display: none; }
+
+#footerImg {
+  height: 10rem;
+  width: 25rem; }
+
+#educationPart {
+  margin: auto;
+  width: 90%; }
+
+.textProcess {
+  overflow: auto; }
