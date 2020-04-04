@@ -38,7 +38,7 @@ $(document).ready(function() {
 });
 
 function showSweetAlert(){
-    swal("Thank you! You successfully send me an email!", "Look forward hearing from me :)", "success")
+    swal("Thank you! You successfully send me an email!", "I will get back to you soon! :)", "success")
 }
 
 $('#logo').on('click',function(){
